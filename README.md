@@ -1,2 +1,4 @@
-# HelloWorld
- My first Git project
+# Hello World
+ 
+**My first Git Repository**
+
